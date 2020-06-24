@@ -1,3 +1,6 @@
+# New Repository: [https://github.com/Lilium-Studio/minecraft-server-backup-script](https://github.com/Lilium-Studio/minecraft-server-backup-script)
+This project has moved to another repository. Click the link above for more details.
+
 # minecraft-server-backup
 Backup your minecraft server saves easily with bash or batch scripts
 ## How to use
